@@ -3,11 +3,12 @@ import './App.css';
 
 function App() {
   return (
+    // Esta é a construção da view principal do projeto novo-app
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        Olá galera FullStack! Um olá mundo do ReactJS
         </p>
         <a
           className="App-link"
@@ -21,5 +22,5 @@ function App() {
     </div>
   );
 }
-
+// Neste passo, o componente esta exposto para todos os "pedaços" do projeto
 export default App;
