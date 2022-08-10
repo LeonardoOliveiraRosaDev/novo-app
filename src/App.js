@@ -1,6 +1,8 @@
 import './App.css';
 // importar os componentes do projeto
 import Demo from './componentes/Demo';
+import DemoFunc from './componentes/DemoFunc';
+import FuncSeta from './componentes/FuncSeta';
 
 function App() {
   return (
@@ -8,6 +10,8 @@ function App() {
     <div className="App">
       <header className="App-header">
           <Demo />
+          <DemoFunc />
+          <FuncSeta />
       </header>
     </div>
   );

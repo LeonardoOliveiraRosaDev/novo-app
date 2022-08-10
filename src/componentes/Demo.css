@@ -1,4 +1,12 @@
 .titulo{
-    background-color: white;
-    color: blue;
+    /* background-color: white; */
+    color: orangered;
+}
+
+.titulo2{
+    color: rgb(16, 157, 239);
+}
+
+.titulo3{
+    color:crimson;
 }
