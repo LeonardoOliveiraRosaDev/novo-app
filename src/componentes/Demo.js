@@ -1,6 +1,7 @@
 // importar os recursos necessarios para transformar uma classe
 // num componente.
 import React, {Component} from "react";
+import ('./Demo.css');
 
 
 
@@ -11,7 +12,7 @@ class Demo extends Component{ // pára transformar uma classe num componente bas
     render(){
         return (// aqui metodo return "constrói" a estrutura view da tela e do conteudo que sera exibido pelo browswer
         <div>
-            <h2>Primeiro Componente da classe ReactJs</h2>
+            <h2 className="titulo">Primeiro Componente da classe ReactJs</h2>
         </div>
         )
     }
