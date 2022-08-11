@@ -1,5 +1,6 @@
 .titulo{
     /* background-color: white; */
+    text-decoration: underline;
     color: orangered;
 }
 
@@ -9,4 +10,14 @@
 
 .titulo3{
     color:crimson;
+}
+
+.titulo4{
+    color: rgb(98, 255, 0);
+}
+.titulo5{
+    color: rgb(238, 47, 255);
+}
+.titulo6{
+    color: orangered;
 }
