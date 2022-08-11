@@ -1,4 +1,4 @@
-// app principal
+// app principal.
 
 import './App.css';
 // importar os componentes do projeto
