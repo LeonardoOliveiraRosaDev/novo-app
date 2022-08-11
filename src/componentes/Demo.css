@@ -21,3 +21,10 @@
 .titulo6{
     color: orangered;
 }
+
+.state{
+    color: rgb(238, 47, 255);
+}
+.botaoState{
+    margin: 10px;
+}

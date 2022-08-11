@@ -4,7 +4,7 @@ import Demo from './componentes/Demo';
 import DemoFunc from './componentes/DemoFunc';
 import FuncSeta from './componentes/FuncSeta';
 import Parent from './componentes/Parent';
-
+import State from './componentes/State';
 function App() {
   return (
     // Esta é a construção da view principal do projeto novo-app
@@ -14,6 +14,7 @@ function App() {
           <DemoFunc />
           <FuncSeta />
           <Parent />
+          <State />
       </header>
     </div>
   )
