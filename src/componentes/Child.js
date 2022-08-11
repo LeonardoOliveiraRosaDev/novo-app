@@ -1,4 +1,4 @@
-// Importar recursos nescessários para criar componente classe
+// Importar recursos nescessários para criar componente classe !
 import React, {Component} from "react";
 // import do css
 import './Demo.css';
